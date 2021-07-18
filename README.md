@@ -38,3 +38,7 @@
 ### Репозиторий проекта
 
 [Репозиторий проекта на GitHub](https://github.com/bruffridge/nasawds)
+
+# Демонстрация
+
+Результат выполнения задания на Pages: https://yuliazherebtsova.github.io/design-system-nasa/
