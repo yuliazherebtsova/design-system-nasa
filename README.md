@@ -26,7 +26,7 @@
 
 ### Для работы с дизайн-системой NASA вам понадобятся
 - https://designsystem.digital.gov/ ── страница дизайн-системы.
-- https://designsystem.digitalв.gov/components/overview/ ── список компонентов с их описанием и примерами кода.
+- https://designsystem.digital.gov/components/overview/ ── список компонентов с их описанием и примерами кода.
 - https://designsystem.digital.gov/design-tokens/ ── вспомагательные возможности для построения проекта.
 - https://designsystem.digital.gov/utilities/ ── для использования дополнительных свойств CSS.
 - https://designsystem.digital.gov/documentation/developers/#css-architecture - про архитектуру CSS.
